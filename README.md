@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Imaa
+# Hi there 👋 I'm Imantha Gihan
 
 Welcome to my GitHub profile! I'm an IT undergraduate with a passion for cloud computing, DevOps, and modern app development. I enjoy exploring new technologies, building simple but useful projects, and learning by doing. Always curious, always improving!
 
